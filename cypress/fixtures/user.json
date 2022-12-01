@@ -1,0 +1,14 @@
+{
+  "message": "User created successfully",
+  "user": {
+    "id": 12112,
+    "name": "Spencer Hyatt",
+    "email": "Spencer1662@customer.com",
+    "password": "P@word123",
+    "phone_number": "01521301698",
+    "nid": "1738475911",
+    "role": "Customer",
+    "createdAt": "2022-12-01T08:42:05.000Z",
+    "updatedAt": "2022-12-01T08:42:05.000Z"
+  }
+}
